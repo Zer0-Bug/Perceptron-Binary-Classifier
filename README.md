@@ -1,4 +1,4 @@
-<h1 align="center">ML Perceptron Algorithm: Binary Classification</h1>
+<h1 align="center">Perceptron Algorithm: Binary Classification</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
