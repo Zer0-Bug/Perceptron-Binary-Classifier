@@ -56,7 +56,7 @@ Perceptron-Binary-Classifier/
 ├── README.md                                 # Project documentation
 ├── .gitattributes                            # Git configuration
 ├── DataForPerceptron.xlsx                    # Raw dataset (TRAIN/TEST sheets)
-├── Project Report.pdf                        # Technical research report
+├── Project Report.pdf                        # Research and project report
 │
 └── Implementation/
     └── PerceptronAlgorithm.py                # Core algorithm and execution script
