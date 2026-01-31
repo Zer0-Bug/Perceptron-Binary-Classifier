@@ -51,7 +51,7 @@ The implementation follows a modular linear classification pipeline designed for
 <h2 align="center">Project Structure</h2>
 
 ```
-ML_PerceptronAlgorithm/
+Perceptron-Binary-Classifier/
 ├── LICENSE                                   # MIT License
 ├── README.md                                 # Project documentation
 ├── .gitattributes                            # Git configuration
@@ -132,8 +132,10 @@ b := b + α * (y_actual - y_pred)
 To setup the environment locally, execute:
 
 ```bash
-git clone https://github.com/Zer0-Bug/ML_PerceptronAlgorithm.git
-cd ML_PerceptronAlgorithm
+git clone https://github.com/Zer0-Bug/Perceptron-Binary-Classifier.git
+```
+```bash
+cd Perceptron-Binary-Classifier
 ```
 
 ### Environment Preparation
