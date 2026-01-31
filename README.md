@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib">
   </a>
   <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/badge/license-MIT-darkred?style=for-the-badge" alt="License">
   </a>
 </p>
 
